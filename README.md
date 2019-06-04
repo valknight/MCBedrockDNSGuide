@@ -3,12 +3,13 @@
 ## About
 
 ### What is this?
+
 This is a guide to use your own servers on platforms that run Minecraft (Bedrock Edition) that do not have this ability built into the game.
 
 ### What platforms/versions have been reported working?
 
-- Minecraft Bedrock Edition for Xbox One
-- Minecraft Bedrock Edition for Nintendo Switch
+- Minecraft Bedrock Edition v1.11.4 for Xbox One
+- Minecraft Bedrock Edition v1.11.4 for Nintendo Switch
 
 This guide may also work on other platforms which run Minecraft Bedrock Edition in future, and new versions of the game, however support isn't guaranteed. If it is working on platforms not listed above, please create an Issue saying as such, and I can update the list above.
 
@@ -91,6 +92,6 @@ If you want to use a DNS server other than Cloudflare's for any other requests, 
 
 ## Making Improvements
 
-If you have improvements you wish to add to this guide, please make a pull request.
+If you have improvements/fixes (including typos/grammar - mine is likely appalling!) you wish to add to this guide, please make a pull request.
 
-If you want to report specific compatibility with platforms/versions not listed, please make an Issue, and report the platform, version of the game, and how well this trick works.
+If you want to report specific compatibility with platforms/versions not listed, please make an Issue, and report the platform, version of the game, and how well this trick works, and the guide can be updated with that information.
