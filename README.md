@@ -1,4 +1,15 @@
 # Minecraft: Bedrock Edition Custom Server DNS Trick 
+  * [About](#about)
+    + [What is this?](#what-is-this-)
+    + [What platforms/versions have been reported working?](#what-platforms-versions-have-been-reported-working-)
+    + [How does this work?](#how-does-this-work-)
+    + [Why would I want to do this?](#why-would-i-want-to-do-this-)
+    + [Limitations of this trick](#limitations-of-this-trick)
+  * [Setup](#setup)
+    + [Requirements](#requirements)
+    + [DNS Setup on the server](#dns-setup-on-the-server)
+    + [DNS setup on the console](#dns-setup-on-the-console)
+  * [Making Improvements](#making-improvements)
 
 ## About
 
