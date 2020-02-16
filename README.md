@@ -5,6 +5,7 @@
     + [How does this work?](#how-does-this-work-)
     + [Why would I want to do this?](#why-would-i-want-to-do-this-)
     + [Limitations of this trick](#limitations-of-this-trick)
+    + [List of the domains for featured servers](#domains-list)
   * [Setup](#setup)
     + [Requirements](#requirements)
     + [DNS Setup on the server](#dns-setup-on-the-server)
@@ -40,6 +41,16 @@ One, this allows for cross-platform play without one host being always online wi
     - This is fairly easy to do, but should be kept in mind
 - This may be patched at any point by the Minecraft team (however, it has not happened yet, and this trick has been around for several versions of the game)
 - If your DNS server goes down, all consoles using it will lose network connectivity (setup two if this is an issue for you, so you can take one down without the other being affected)
+
+### Domains List
+-The featured servers in bedrock do not use the standard domains, so I compiled a list of them here. 
+
++The Hive uses hivebedrock.network
++Lifeboat uses mco.lbsg.net
++mineplex uses mco.mineplex.com
++cubecraft uses mco.cubecraft.net
++mineville uses play.inpvp.net
+
 
 ## Setup
 
