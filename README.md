@@ -45,11 +45,11 @@ One, this allows for cross-platform play without one host being always online wi
 ### Domains List
 -The featured servers in bedrock do not use the standard domains, so I compiled a list of them here. 
 
-+The Hive uses hivebedrock.network
-+Lifeboat uses mco.lbsg.net
-+mineplex uses mco.mineplex.com
-+cubecraft uses mco.cubecraft.net
-+mineville uses play.inpvp.net
+- The Hive uses hivebedrock.network
+- Lifeboat uses mco.lbsg.net
+- mineplex uses mco.mineplex.com
+- cubecraft uses mco.cubecraft.net
+- mineville uses play.inpvp.net
 
 
 ## Setup
