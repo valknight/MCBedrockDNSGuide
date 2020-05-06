@@ -83,7 +83,7 @@ This guide assumes your server is already working. To test this, you can use Min
     forward . 1.1.1.1:53
 }
 ```
-While doing this, replace example.com with the domain / IP for your server.
+While doing this, replace example.com with the address for your server (this cannot be a raw IP address).
 
 If you want to use a DNS server other than Cloudflare's for any other requests, change `1.1.1.1`
 
