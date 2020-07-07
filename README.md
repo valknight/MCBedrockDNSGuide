@@ -25,7 +25,7 @@ This is a guide to use your own servers on platforms that run Minecraft (Bedrock
 
 This guide may also work on other platforms which run Minecraft Bedrock Edition in future, and new versions of the game, however support isn't guaranteed. If it is working on platforms not listed above, please create an Issue saying as such, and I can update the list above.
 
-This **will not** work on the PS4 version of Minecraft, as well as the deprecated version of Minecraft for Nintendo Switch.
+This **will not** work on any deprecated version of Minecraft (such as Minecraft for Nintendo Switch or the old PS4 version).
 
 ### How does this work?
 
