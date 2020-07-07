@@ -21,7 +21,7 @@ This is a guide to use your own servers on platforms that run Minecraft (Bedrock
 ### What platforms/versions have been reported working?
 
 - Minecraft Bedrock Edition v1.11.4 for Xbox One
-- Minecraft Bedrock Edition v1.11.4 for Nintendo Switch
+- Minecraft Bedrock Edition v1.16.1 for Nintendo Switch
 
 This guide may also work on other platforms which run Minecraft Bedrock Edition in future, and new versions of the game, however support isn't guaranteed. If it is working on platforms not listed above, please create an Issue saying as such, and I can update the list above.
 
@@ -117,3 +117,9 @@ If you want to use a DNS server other than Cloudflare's for any other requests, 
 If you have improvements/fixes (including typos/grammar - mine is likely appalling!) you wish to add to this guide, please make a pull request.
 
 If you want to report specific compatibility with platforms/versions not listed, please make an Issue, and report the platform, version of the game, and how well this trick works, and the guide can be updated with that information.
+
+## Further reading
+
+If you want to play using a Java server, check out [Geyser](https://github.com/GeyserMC/Geyser). It works well, and lets me play on Java servers while curled up in bed.
+
+If you want to have a server browser on Switch, check out [BedrockConnect](https://github.com/Pugmatt/BedrockConnect). It's great as it means at most you take out one of the built in servers, and lets you have many many more saved. It's also light enough to be ran on a Raspberry Pi without issues.
